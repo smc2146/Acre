@@ -1,3 +1,3 @@
 # IPO impact
 
-The impact of the IPO on QGL rainfall
+The impact of the IPO on ENSO-QGL rainfall 
